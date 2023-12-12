@@ -1,0 +1,131 @@
+/* Box Dimensions */
+/* div{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}
+p{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(245, 8, 241);
+} */
+/* limiting widhts */
+/* h1{
+    color: green;
+} */
+
+/* td.description{
+    min-width: 500px;
+    max-width: 700px;
+    text-align: left;
+    padding: 10px;
+    margin: 0px;
+} */
+/* limiting-height */
+/* h1{
+    color: green;
+}
+h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;
+}
+    h2 {
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;
+}
+p{
+     
+    max-height: 500px;
+    border: 1px solid red;
+
+} */
+/* OVERFLOW */
+/* p{
+     
+    max-height: 80px;
+    border: 1px solid red;
+    overflow: scroll;
+} */
+/* BORDER WIDHT */
+/* BORDER STYLE */
+/* SOLID, DOTTED, DISHED, GROOVE, INSET,OUTSET ETC */
+/* p{
+    border-style: outset;
+    border-width: 1px 2px 3px 4px;
+} */
+/* BORDER COLOR */
+/* p{
+    border-style: solid;
+    border-color: blue;
+} */
+/* PADDING */
+ 
+    /* p {
+        width: 300px;
+        padding: 20px;
+        border: 10px solid #0088dd;}
+ 
+ .p2{
+    margin-top: 20px;
+   margin-right: auto;
+    margin-left: auto;  
+  } */
+  /* CHANGE INLINE BLOCK */
+  /* li{
+    display: inline;
+    margin-right: 10px;
+  }
+  li.coming-soon {
+    display: none;
+} */
+/* hiding boxes */
+/* li{
+    display: inline;
+    margin-right: 10px;
+  }
+  li.coming-soon {
+    display: none;
+} */
+/* BORDER IMAGE */
+/* .one{
+    border: 30px solid transparent;
+    border-image: url("./icons8-phone-100.png") 30 repeat;
+    padding: 20px;
+} */
+/* box shadow */
+body{
+    background-color: black;
+}
+.one{
+    /* width: 300px;
+     border: 2px solid green;
+     margin: auto;
+     padding: 20px;
+     /* border-radius: 20px 40px 60px 80px; */
+    /* border-top-left-radius: 60px;
+     background-color: black;
+     color: white; */
+
+     width: 200px;
+     height: 200px;
+     background-color: rgb(255, 255, 255);
+     border-radius: 50%;
+      
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
